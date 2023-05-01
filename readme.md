@@ -1,9 +1,6 @@
 # Speech Emotion Recognition ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) ![version](https://img.shields.io/badge/version-1.0.0-green)
 
 
-## Description
-This project is a part of the final **Data Mining** project for **ITC Fellow Program 2020**. 
-
 Datasets used in this project
 * Crowd-sourced Emotional Mutimodal Actors Dataset (**Crema-D**)
 * Ryerson Audio-Visual Database of Emotional Speech and Song (**Ravdess**)
