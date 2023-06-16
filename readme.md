@@ -1,5 +1,7 @@
 # Speech Emotion Recognition ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) ![version](https://img.shields.io/badge/version-1.0.0-green)
 
+![image](https://github.com/MainakRepositor/SER/assets/64016811/4f5f1715-95cd-4368-ad0f-6c239735f523)
+
 
 Datasets used in this project
 * Crowd-sourced Emotional Mutimodal Actors Dataset (**Crema-D**)
